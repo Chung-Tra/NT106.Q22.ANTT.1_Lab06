@@ -1,1 +1,1 @@
-# Chung-Tra-NT106.Q22.ANTT.1_Lab06
+#Lab 6 — Whiteboard cộng tác realtime (mô hình Server – Clients)
