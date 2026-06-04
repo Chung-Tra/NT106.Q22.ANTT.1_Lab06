@@ -166,7 +166,7 @@ namespace Client
             this.lblClients.Name = "lblClients";
             this.lblClients.Size = new System.Drawing.Size(150, 19);
             this.lblClients.TabIndex = 6;
-            this.lblClients.Text = "Connected clients: 0";
+            this.lblClients.Text = "Connected clients: ...";
             //
             // lblStatus
             //

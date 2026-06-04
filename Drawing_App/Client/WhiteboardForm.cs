@@ -99,7 +99,11 @@ public partial class WhiteboardForm : Form
             RunOnUi(SaveAndClose));
 
         _connection.On<int>("ClientCount", n =>
-            RunOnUi(() => lblClients.Text = $"Connected clients: {n}"));
+            RunOnUi(() =>
+            {
+                lblClients.Text = $"Connected clients: {n}";
+                lblClients.Refresh(); // ép vẽ lại ngay, không chờ focus/idle (hết cảnh "phải bấm vào mới hiện")
+            }));
 
         // The server sends LoadState only to clients it ACCEPTED.
         // Apply it only on the FIRST connect; on a later reconnect we KEEP the local board

@@ -1,3 +1,32 @@
-.vs
-bin
-obj 
+# ============================================================
+#  .gitignore — NT106 Lab06 (ASP.NET Core + WinForms, .NET 8)
+# ============================================================
+
+# --- Kết quả build (.NET) ---
+[Bb]in/
+[Oo]bj/
+
+# --- Visual Studio / IDE ---
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# --- NuGet ---
+*.nupkg
+*.snupkg
+packages/
+
+# --- Log / tạm / backup ---
+*.log
+*.tmp
+*.bak
+
+# --- Rác hệ điều hành ---
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
