@@ -1,0 +1,14 @@
+F:\NT106.Q22.ANTT.1_Lab06\Admin\bin\Debug\net8.0-windows\Admin.exe
+F:\NT106.Q22.ANTT.1_Lab06\Admin\bin\Debug\net8.0-windows\Admin.deps.json
+F:\NT106.Q22.ANTT.1_Lab06\Admin\bin\Debug\net8.0-windows\Admin.runtimeconfig.json
+F:\NT106.Q22.ANTT.1_Lab06\Admin\bin\Debug\net8.0-windows\Admin.dll
+F:\NT106.Q22.ANTT.1_Lab06\Admin\bin\Debug\net8.0-windows\Admin.pdb
+F:\NT106.Q22.ANTT.1_Lab06\Admin\obj\Debug\net8.0-windows\Admin.GeneratedMSBuildEditorConfig.editorconfig
+F:\NT106.Q22.ANTT.1_Lab06\Admin\obj\Debug\net8.0-windows\Admin.AssemblyInfoInputs.cache
+F:\NT106.Q22.ANTT.1_Lab06\Admin\obj\Debug\net8.0-windows\Admin.AssemblyInfo.cs
+F:\NT106.Q22.ANTT.1_Lab06\Admin\obj\Debug\net8.0-windows\Admin.csproj.CoreCompileInputs.cache
+F:\NT106.Q22.ANTT.1_Lab06\Admin\obj\Debug\net8.0-windows\Admin.dll
+F:\NT106.Q22.ANTT.1_Lab06\Admin\obj\Debug\net8.0-windows\refint\Admin.dll
+F:\NT106.Q22.ANTT.1_Lab06\Admin\obj\Debug\net8.0-windows\Admin.pdb
+F:\NT106.Q22.ANTT.1_Lab06\Admin\obj\Debug\net8.0-windows\Admin.genruntimeconfig.cache
+F:\NT106.Q22.ANTT.1_Lab06\Admin\obj\Debug\net8.0-windows\ref\Admin.dll
